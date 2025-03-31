@@ -1,0 +1,33 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+body {
+  color: rebeccapurple;
+  background-color: lightgrey;
+  font-family: sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Verdana, Helvetica, sans-serif;
+  text-align: center;
+  color: purple;
+}
+
+#uconnwbb {
+  text-align: center;
+}
+
+.collapse {
+  border-collapse: collapse;
+  width: 100%;
+  border: 1px solid plum;
+  text-align: center;
+}
+
+#azzi {
+  color: darkred;
+}
+
