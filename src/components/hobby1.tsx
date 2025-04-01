@@ -1,3 +1,7 @@
+import List1 from "./list1";
+import Table1 from "./table1";
+import Form1 from "./form1";
+
 const Hobby1 = () => {
     return (
         <>
@@ -9,6 +13,9 @@ const Hobby1 = () => {
             <div id={"uconnWbb"}>
                 <img src="public/uconnwbb.jpg" alt="UCONN WBB starters" />
             </div>
+            <List1 />
+            <Table1 />
+            <Form1 />
         </>
     )
 }

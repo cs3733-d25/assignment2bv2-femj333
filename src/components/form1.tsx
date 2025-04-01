@@ -74,7 +74,9 @@ const Form1 = () => {
                 </select>
                 <br />
                 <br />
-                <button type="submit">Submit</button>
+                <div className={"button-container"}>
+                    <button type="submit">Submit</button>
+                </div>
             </form>
         </>
     )
